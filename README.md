@@ -8,3 +8,12 @@
 <!-- BLOG-POST-LIST:START -->
 - [Satellite Navigation](https://tivole.github.io/math/satellite/navigation/2020/09/14/satellite-navigation.html)
 <!-- BLOG-POST-LIST:END -->
+
+### 📊 GitHub Stats
+
+<!-- status codes -->
+<a align="center" href="https://tivole.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tivole&show_icons=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tivole&layout=compact" alt="languages" height="165">
+    </p>
+</a>
