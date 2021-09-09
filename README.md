@@ -7,6 +7,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Satellite Navigation](https://tivole.github.io/math/satellite/navigation/2020/09/14/satellite-navigation.html)
+- [Serial Peripheral Interface](https://tivole.github.io/robotics/arduino/electronics/2020/04/02/serial-peripheral-interface.html)
+- [Universal Asynchronous Transmitter Receiver](https://tivole.github.io/robotics/arduino/electronics/2020/04/02/universal-asynchronous-transmitter-receiver.html)
+- [Inter-Integrated Circuit](https://tivole.github.io/robotics/arduino/electronics/2020/04/02/inter-integrated-circuit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats
