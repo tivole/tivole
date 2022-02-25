@@ -6,11 +6,11 @@
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mathematical Wings of Aircraft Engineering](https://tivole.github.io/math/aircraft/engineering/2022/02/25/mathematical-wings-of-aircraft-engineering.html)
 - [Tello Drone Real Time Trajectory Tracking](https://tivole.github.io/tello/drone/trajectory/2022/02/02/tello-trajectory-real-time.html)
 - [Satellite Navigation](https://tivole.github.io/math/satellite/navigation/2020/09/14/satellite-navigation.html)
 - [Serial Peripheral Interface](https://tivole.github.io/robotics/arduino/electronics/2020/04/02/serial-peripheral-interface.html)
 - [Universal Asynchronous Transmitter Receiver](https://tivole.github.io/robotics/arduino/electronics/2020/04/02/universal-asynchronous-transmitter-receiver.html)
-- [Inter-Integrated Circuit](https://tivole.github.io/robotics/arduino/electronics/2020/04/02/inter-integrated-circuit.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats
